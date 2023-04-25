@@ -57,8 +57,8 @@
     "jest-extended": "3.0.1",
     "markdownlint-cli": "0.32.1",
     "postcss-less": "6.0.0",
-    "stylelint": "14.9.1",
-    "stylelint-config-standard": "26.0.0",
+    "stylelint": "15.6.0",
+    "stylelint-config-standard": "33.0.0",
     "svgo": "2.8.0",
     "updates": "13.1.2"
   },
