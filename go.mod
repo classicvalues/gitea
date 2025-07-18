@@ -1,6 +1,6 @@
 module code.gitea.io/gitea
 
-go 1.18
+go 1.23.0
 
 require (
 	code.gitea.io/gitea-vet v0.2.2-0.20220122151748-48ebc902541b
@@ -94,7 +94,7 @@ require (
 	go.jolheiser.com/pwn v0.0.3
 	golang.org/x/crypto v0.0.0-20220507011949-2cf3adece122
 	golang.org/x/net v0.0.0-20220630215102-69896b714898
-	golang.org/x/oauth2 v0.0.0-20220411215720-9780585627b5
+	golang.org/x/oauth2 v0.27.0
 	golang.org/x/sys v0.0.0-20220520151302-bc2c85ada10a
 	golang.org/x/text v0.3.7
 	golang.org/x/tools v0.1.10
@@ -279,7 +279,6 @@ require (
 	golang.org/x/mod v0.6.0-dev.0.20220106191415-9b9b3d81d5e3 // indirect
 	golang.org/x/time v0.0.0-20220411224347-583f2d630306 // indirect
 	golang.org/x/xerrors v0.0.0-20220411194840-2f41105eb62f // indirect
-	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/genproto v0.0.0-20211208223120-3a66f561d7aa // indirect
 	google.golang.org/grpc v1.43.0 // indirect
 	google.golang.org/protobuf v1.28.0 // indirect
