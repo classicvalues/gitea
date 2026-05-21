@@ -46,7 +46,7 @@
   },
   "devDependencies": {
     "@happy-dom/jest-environment": "6.0.4",
-    "@stoplight/spectral-cli": "6.4.1",
+    "@stoplight/spectral-cli": "6.16.0",
     "eslint": "8.20.0",
     "eslint-plugin-import": "2.26.0",
     "eslint-plugin-jquery": "1.5.1",
