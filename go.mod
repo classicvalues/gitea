@@ -1,6 +1,6 @@
 module code.gitea.io/gitea
 
-go 1.18
+go 1.24
 
 require (
 	code.gitea.io/gitea-vet v0.2.2-0.20220122151748-48ebc902541b
@@ -58,7 +58,7 @@ require (
 	github.com/json-iterator/go v1.1.12
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51
 	github.com/keybase/go-crypto v0.0.0-20200123153347-de78d2cb44f4
-	github.com/klauspost/compress v1.15.3
+	github.com/klauspost/compress v1.18.7
 	github.com/klauspost/cpuid/v2 v2.0.12
 	github.com/lib/pq v1.10.5
 	github.com/lunny/dingtalk_webhook v0.0.0-20171025031554-e3534c89ef96
