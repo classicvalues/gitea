@@ -1,6 +1,6 @@
 module code.gitea.io/gitea
 
-go 1.18
+go 1.24
 
 require (
 	code.gitea.io/gitea-vet v0.2.2-0.20220122151748-48ebc902541b
@@ -30,7 +30,7 @@ require (
 	github.com/gliderlabs/ssh v0.3.4
 	github.com/go-ap/activitypub v0.0.0-20220615144428-48208c70483b
 	github.com/go-ap/jsonld v0.0.0-20220615144122-1d862b15410d
-	github.com/go-chi/chi/v5 v5.0.7
+	github.com/go-chi/chi/v5 v5.4.0
 	github.com/go-chi/cors v1.2.1
 	github.com/go-enry/go-enry/v2 v2.8.2
 	github.com/go-fed/httpsig v1.1.1-0.20201223112313-55836744818e
